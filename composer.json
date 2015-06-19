@@ -19,16 +19,20 @@
     "require": {
         "php": ">=5.5",
         "zendframework/zendframework": "~2.5",
+        "cityware/city-chart": "dev-master",
+        "cityware/city-datagrid": "dev-master",
+        "cityware/city-db": "dev-master",
+        "cityware/city-exception": "dev-master",
+        "cityware/city-form": "dev-master",
         "cityware/city-format": "dev-master",
+        "cityware/city-generator": "dev-master",
+        "cityware/city-log": "dev-master",
+        "cityware/city-mvc": "dev-master",
+        "cityware/city-regex": "dev-master",
+        "cityware/city-security": "dev-master",
         "cityware/city-services": "dev-master",
-        "cityware/city-format": "dev-master",
-        "cityware/city-format": "dev-master",
-        "cityware/city-format": "dev-master",
-        "cityware/city-format": "dev-master",
-        "cityware/city-format": "dev-master",
-        "cityware/city-format": "dev-master",
-        "cityware/city-format": "dev-master",
-        "cityware/city-format": "dev-master"
+        "cityware/city-utility": "dev-master",
+        "cityware/city-view": "dev-master"
     },
     "suggest": {
         "zendframework/zendframework": "Zend Framework 2"
