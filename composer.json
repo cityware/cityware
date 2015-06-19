@@ -8,6 +8,14 @@
     ],
     "homepage": "http://www.cityware.com.br/",
     "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Cityware\\": "/"
+        },
+        "psr-0": {
+            "Cityware\\": "/"
+        }
+    },
     "require": {
         "php": ">=5.5",
         "zendframework/zendframework": "~2.5",
