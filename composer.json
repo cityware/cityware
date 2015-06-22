@@ -29,7 +29,7 @@
             "Cityware\\": ""
         },
         "psr-0": {
-            "": ""
+            "Cityware": ""
         }
     },
     "require": {
