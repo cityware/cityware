@@ -40,6 +40,7 @@
         "zendframework/zendframework": "~2.5",
         "neilime/zf2-twb-bundle": "2.*@stable",
         "cityware/city-chart": "dev-master",
+        "cityware/city-components": "dev-master",
         "cityware/city-datagrid": "dev-master",
         "cityware/city-db": "dev-master",
         "cityware/city-exception": "dev-master",
