@@ -30,7 +30,9 @@
         "psr-0": {
             "Cityware\\": "src/"
         },
-        "classmap": ["src/Module.php"]
+        "classmap": [
+            "src/"
+        ]
     },
     "license": "GPL-3.0",
     "require": {
