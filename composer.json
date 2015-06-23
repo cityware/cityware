@@ -23,6 +23,17 @@
         }
     ],
     "homepage": "http://www.cityware.com.br/",
+    "autoload": {
+        "psr-4": {
+            "Cityware\\": "src/"
+        },
+        "psr-0": {
+            "Cityware\\": "src/"
+        },
+        "classmap": [
+            "src/"
+        ]
+    },
     "license": "GPL-3.0",
     "require": {
         "php": ">=5.5",
