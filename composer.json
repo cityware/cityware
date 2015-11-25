@@ -55,7 +55,7 @@
         "cityware/city-services": "dev-master",
         "cityware/city-utility": "dev-master",
         "cityware/city-view": "dev-master",
-        "cityware/cityware": "dev-master",
+        "cityware/cityware": "dev-master"
     },
     "require-dev": {
         "fabpot/php-cs-fixer": "1.7.*",
