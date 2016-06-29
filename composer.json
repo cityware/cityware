@@ -37,7 +37,6 @@
     "license": "GPL-3.0",
     "require": {
         "php": ">=5.6",
-        "zendframework/zendframework": "~2.5",
         "neilime/zf2-twb-bundle": "2.*@stable",
         "cityware/city-cache": "dev-master",
         "cityware/city-chart": "dev-master",
@@ -53,9 +52,22 @@
         "cityware/city-regex": "dev-master",
         "cityware/city-security": "dev-master",
         "cityware/city-services": "dev-master",
+        "cityware/city-snmp": "dev-master",
         "cityware/city-utility": "dev-master",
         "cityware/city-view": "dev-master",
-        "cityware/cityware": "dev-master"
+        "cityware/city-wmi": "dev-master",
+        "cityware/cityware": "dev-master",
+        
+        "blanchonvincent/simple-memory-shared": "dev-master",
+        "blanchonvincent/parallel-jobs": "dev-master",
+        "phpmailer/phpmailer": "~5.2",
+        
+        "clue/graph": "~0.9.0|~0.8.0",
+        "graphp/graphviz": "~0.2.0",
+        "graphp/algorithms": "~0.8.0",
+        "graphp/plaintext": "~0.1.0",
+        
+        "phpseclib/phpseclib":"dev-master"
     },
     "require-dev": {
     },
