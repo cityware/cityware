@@ -37,7 +37,7 @@
     "license": "GPL-3.0",
     "require": {
         "php": ">=5.6",
-        "cityware/city-bootstrap": "dev-master",
+        
         "cityware/city-cache": "dev-master",
         "cityware/city-chart": "dev-master",
         "cityware/city-components": "dev-master",
