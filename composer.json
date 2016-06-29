@@ -70,9 +70,7 @@
     "require-dev": {
     },
     "suggest": {
-        "phpmailer/phpmailer": "PHPMailer is a full-featured email creation and transfer class for PHP",
-        "blanchonvincent/simple-memory-shared": "ZF2 module v2.1.0 - Provide a manager to share simply memory with storage options : file, session, segment, memcached, apc, zendshm and zenddisk.",
-        "blanchonvincent/parallel-jobs": "ZF2 module v1.5.0 - Fork Manager to manage parallel tasks."
+        "phpmailer/phpmailer": "PHPMailer is a full-featured email creation and transfer class for PHP"
     },
     "extra": {
         "branch-alias": {
