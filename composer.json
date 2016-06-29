@@ -53,6 +53,7 @@
         "cityware/city-security": "dev-master",
         "cityware/city-services": "dev-master",
         "cityware/city-snmp": "dev-master",
+        "cityware/city-thread": "dev-master",
         "cityware/city-utility": "dev-master",
         "cityware/city-view": "dev-master",
         "cityware/city-wmi": "dev-master",
