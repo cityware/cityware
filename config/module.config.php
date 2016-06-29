@@ -49,7 +49,7 @@ return array(
         
     ),
     
-    'bootstrap' => array (
+    'cityBootstrap' => array (
         'ignoredViewHelpers' => array (
             'file',
             'checkbox',
