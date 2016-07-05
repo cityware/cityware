@@ -54,7 +54,6 @@
         "cityware/city-services": "dev-master",
         "cityware/city-shared-memory": "dev-master",
         "cityware/city-snmp": "dev-master",
-        "cityware/city-thread": "dev-master",
         "cityware/city-utility": "dev-master",
         "cityware/city-view": "dev-master",
         "cityware/city-wmi": "dev-master",
