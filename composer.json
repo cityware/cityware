@@ -47,6 +47,7 @@
         "cityware/city-format": "dev-master",
         "cityware/city-generator": "dev-master",
         "cityware/city-log": "dev-master",
+        "cityware/city-monitor": "dev-master",
         "cityware/city-mvc": "dev-master",
         "cityware/city-parallel-jobs": "dev-master",
         "cityware/city-regex": "dev-master",
