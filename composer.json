@@ -40,6 +40,7 @@
         "cityware/city-cache": "dev-master",
         "cityware/city-chart": "dev-master",
         "cityware/city-components": "dev-master",
+        "cityware/city-communication": "dev-master",
         "cityware/city-datagrid": "dev-master",
         "cityware/city-db": "dev-master",
         "cityware/city-exception": "dev-master",
@@ -58,7 +59,6 @@
         "cityware/city-thread": "dev-master",
         "cityware/city-utility": "dev-master",
         "cityware/city-view": "dev-master",
-        "cityware/city-webservice": "dev-master",
         "cityware/city-wmi": "dev-master",
         
         "phpmailer/phpmailer": "~5.2",
