@@ -46,6 +46,8 @@
         "cityware/city-form": "dev-master",
         "cityware/city-format": "dev-master",
         "cityware/city-generator": "dev-master",
+        "cityware/city-communication": "dev-master",
+        "cityware/city-seo": "dev-master",
         "cityware/city-log": "dev-master",
         "cityware/city-monitoring": "dev-master",
         "cityware/city-mvc": "dev-master",
