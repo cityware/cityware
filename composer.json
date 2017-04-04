@@ -51,8 +51,7 @@
         "cityware/city-mvc": "dev-master",
         "cityware/city-parallel-jobs": "dev-master",
         "cityware/city-regex": "dev-master",
-        "cityware/city-security": "dev-master",1
-        
+        "cityware/city-security": "dev-master",        
         "cityware/city-services": "dev-master",
         "cityware/city-shared-memory": "dev-master",
         "cityware/city-snmp": "dev-master",
