@@ -61,6 +61,7 @@
         "cityware/city-thread": "dev-master",
         "cityware/city-utility": "dev-master",
         "cityware/city-view": "dev-master",
+        "cityware/city-watson": "dev-master",
         "cityware/city-wmi": "dev-master",
         
         "phpmailer/phpmailer": "~5.2",
